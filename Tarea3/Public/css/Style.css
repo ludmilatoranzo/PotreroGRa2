@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@800&family=Quicksand:wght@300..700&display=swap');
+
+h1{
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: #fa656c;
+}
+
+h2{ font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: #fa656c;
+}
+p,ol{
+    font-family: sans-serif;
+    color: #486f94;
+}
+
+ul{
+  font-family: sans-serif;
+  color: #fa656c;
+
+}
+a{
+font-family: sans-serif;
+color: #fa656c;
+}
+body {
+background-color: #fcfff3
+;}
